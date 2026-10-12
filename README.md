@@ -1,36 +1,37 @@
-# Example Channels, Code Templates, and more
-This is a repository of example channels, code templates, and other scripts you can import and use in Mirth Connect.
+# 示例通道、代码模板等
 
-#### Channels
- - Get Num Pages From Embedded PDF
- - Validate XSD Source Filter
+这是一个示例通道、代码模板和其他脚本的仓库，您可以将它们导入并在 Mirth Connect 中使用。
+
+#### 通道
+ - 从嵌入 PDF 获取页数
+ - 验证 XSD 源过滤器
  
-#### Code Templates
- - Convert Date From Multiple Formats
- - Convert XML to HL7
- - Create and Insert Segment Templates
- - Encrypt PDF
- - Execute Runtime Command
- - Extract Text From PDF
- - Filter XMLLists
- - Fix HL7 Node Order
- - Get Num Pages In PDF
- - Get Segments After a Particular Segment
- - Join HL7 Sub-components
- - Overwrite Logger Categories
- - Rename HL7 Field
- - Replace in All Descendant XML Nodes
- - Route with Sources
- - Run on Startup
- - Strip Empty Nodes from XML
- - Thread-safe get or create from globalMap
- - Unescape `\Xdd..\` HL7 Sequences
+#### 代码模板
+ - 从多种格式转换日期
+ - 将 XML 转换为 HL7
+ - 创建并插入段模板
+ - 加密 PDF
+ - 执行运行时命令
+ - 从 PDF 提取文本
+ - 过滤 XMLList
+ - 修复 HL7 节点顺序
+ - 获取 PDF 页数
+ - 获取特定段之后的段
+ - 连接 HL7 子组件
+ - 覆盖日志记录器类别
+ - 重命名 HL7 字段
+ - 替换所有后代 XML 节点
+ - 使用源进行路由
+ - 启动时运行
+ - 移除 XML 中的空节点
+ - 线程安全地从 globalMap 获取或创建
+ - 反转义 `\Xdd..` HL7 序列
 
-#### Scripts
- - EDI/X12 Batch Script
+#### 脚本
+ - EDI/X12 批处理脚本
  
-See also the public wiki: [https://github.com/nextgenhealthcare/connect/wiki/](https://github.com/nextgenhealthcare/connect/wiki/)
+另请参阅公共 wiki：[https://github.com/nextgenhealthcare/connect/wiki/](https://github.com/nextgenhealthcare/connect/wiki/)
 
-## License
+## 许可证
 
-Unless otherwise specified by a LICENSE file in a project subfolder, all channels, code templates, scripts, and other modules are Copyright © NextGen Healthcare and licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+除非项目子文件夹中的 LICENSE 文件另有规定，所有通道、代码模板、脚本和其他模块均版权所有 (C) NextGen Healthcare，并根据 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) 授权。
